@@ -2,4 +2,5 @@
 
 * [Project-MovieGeneration](README.md)
 * [Introduction](introduction.md)
-* [Project Ideas](project-ideas.md)
+* [Project Principle](project-principle.md)
+* [Schedule](schedule.md)

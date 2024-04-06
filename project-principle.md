@@ -1,8 +1,10 @@
-# Project Ideas
+# Project Principle
+
+## Framework Structure
 
 ![](<.gitbook/assets/image (2).png>)
 
-Python Packages to use:
+## Python Packages to use:
 
 1. Front-end + server: gradios
 2. backend: (pending) langchain / LinkAI
