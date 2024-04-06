@@ -2,12 +2,12 @@
 
 
 
-| To-do                                | days | notes |
-| ------------------------------------ | ---- | ----- |
-| agi API implementation               | 1    |       |
-| Control logic based on Langchain     | 2    |       |
-| Front-End: Gradio                    | 1    |       |
-| Integration of project               | 1    |       |
-| Prompt Turning for movie generations | 2    |       |
-|                                      |      |       |
-|                                      |      |       |
+| To-do                                | days | state   |
+| ------------------------------------ | ---- | ------- |
+| agi API implementation               | 1    | pending |
+| Control logic based on Langchain     | 2    | pending |
+| Front-End: Gradio                    | 1    | pending |
+| Integration of project               | 1    | pending |
+| Prompt Turning for movie generations | 2    | pending |
+|                                      |      |         |
+|                                      |      |         |
