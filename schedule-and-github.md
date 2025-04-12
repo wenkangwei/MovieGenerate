@@ -1,6 +1,8 @@
-# Schedule
+# Schedule& Github
 
+Github repository:
 
+[https://github.com/wenkangwei/MovieGeneratorProj/tree/main](https://github.com/wenkangwei/MovieGeneratorProj/tree/main)
 
 | To-do                                | days | state   |
 | ------------------------------------ | ---- | ------- |

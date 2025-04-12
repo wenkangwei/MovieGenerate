@@ -3,4 +3,4 @@
 * [Project-MovieGeneration](README.md)
 * [Introduction](introduction.md)
 * [Project Principle](project-ideas.md)
-* [Schedule](schedule.md)
+* [Schedule& Github](schedule-and-github.md)
